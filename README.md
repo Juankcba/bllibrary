@@ -28,3 +28,4 @@ License
 Jumble is now licensed under the GNU GPL v3+. See LICENSE.
 
 If you wish to incorporate Jumble into your proprietary project, please email me to discuss licensing.
+# bllibrary
